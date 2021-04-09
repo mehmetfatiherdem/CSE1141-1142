@@ -2,7 +2,7 @@ public class Item {
       /*
         Name: Mehmet Fatih
         Surname: Erdem
-        ID: 150119054
+      
 
         Item class will be used to generate employees working for the factory
      */
