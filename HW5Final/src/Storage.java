@@ -2,7 +2,7 @@ public class Storage {
      /*
         Name: Mehmet Fatih
         Surname: Erdem
-        ID: 150119054
+   
 
         this class represents a storage area for the factory.
     */
