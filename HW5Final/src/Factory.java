@@ -2,7 +2,7 @@ public class Factory {
        /*
         Name: Mehmet Fatih
         Surname: Erdem
-        ID: 150119054
+       
 
         this class represents a factory with employees
     */
